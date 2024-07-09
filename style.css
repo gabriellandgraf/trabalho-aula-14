@@ -1,0 +1,32 @@
+/*imagem do golden*/
+.golden{
+    border-radius: 20px;
+}
+
+/*div com conteudo*/
+.conteudo1 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid blue;
+    margin: 20px;
+    background-image: url(assets/golden.jpg);
+    display: inline-block;
+}
+
+.conteudo2 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid blueviolet;
+    margin: 20px;
+    background-color: aqua;
+    display:inline-block
+}
+
+.conteudo3 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid yellowgreen;
+    margin: 20px;
+    background-color: brown;
+    display: inline-block;
+}
